@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>云计算-Assignment 9.md</title>
+    <link href="/2023/05/08/%E4%BA%91%E8%AE%A1%E7%AE%97-Assignment%209/"/>
+    <url>/2023/05/08/%E4%BA%91%E8%AE%A1%E7%AE%97-Assignment%209/</url>
+    
+    <content type="html"><![CDATA[<h3 id="实验内容："><a href="#实验内容：" class="headerlink" title="实验内容："></a>实验内容：</h3><p>部署一个静态网页博客。静态网页博客是一种不需要后端服务器和数据库支持的网站，只需要使用 HTML、CSS 和 JavaScript 等前端技术就可以实现。静态网页博客有很多优点，比如速度快、安全稳定、易于维护等。</p><p>你需要选择一个自己感兴趣或擅长的主题来制作一个静态网页博客，比如个人介绍、爱好分享、技术总结等。你需要设计至少四个页面来展示博客内容，不限于首页、关于我、文章列表、文章详情等。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>MyFirstBlog</title>
     <link href="/2023/05/08/FirstBlog/"/>
     <url>/2023/05/08/FirstBlog/</url>
